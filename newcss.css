@@ -1,0 +1,58 @@
+body {
+	background-color: #8cbe4f;
+	font-family: 'myriad pro', sans-serif;
+	color: #fff;
+	font-size: 14px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#test {
+	width: 500px;
+	margin: 0 auto;
+}
+
+#main {
+	margin: 0 auto;
+	width: 800px;
+	padding-top: 8%;
+}
+
+#bbDude {
+	background-image: url(images/bbdude.png);
+	background-repeat: no-repeat;
+	width: 280px;
+	height: 400px;
+	float: left;
+}
+
+#container {
+	float: right;
+	width: 500px;
+
+}
+
+.button {
+	display: inline;
+}
+
+#start {
+	float: right;
+}
+
+#title {
+	background-image: url("images/header.png");
+	background-repeat: no-repeat;
+	width: 500px;
+}
+
+.header {
+	width: 550px;
+	height: 100px;
+}
+
+#quiz {
+	width: 500px;
+}
